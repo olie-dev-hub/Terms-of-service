@@ -1,4 +1,4 @@
-# Terms-of-servic
+# Terms-of-service
 Project Saberfall Bot – Terms of Service
 Last Updated: June 30, 2026
 1. Acceptance of Terms
